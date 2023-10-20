@@ -1,0 +1,4 @@
+html[data-theme='snowman'] * {
+	--color-app-background: #cccccc;
+	--color-nav-background: #b9b9b9;
+}

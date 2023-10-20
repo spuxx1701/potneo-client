@@ -1,0 +1,11 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"command": "npx vavite-loader vite dev",
+			"name": "Debug SvelteKit server",
+			"request": "launch",
+			"type": "node-terminal"
+		}
+	]
+}

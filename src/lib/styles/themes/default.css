@@ -1,0 +1,10 @@
+html[data-theme='default'] * {
+	--color-app-background: #060f15;
+	--color-nav-background: #0c1c2c;
+
+	--color-text-default: #f1f1f1;
+	--color-text-subtle: #aeaeae;
+	--color-text-link: var(--color-text-subtle);
+	--color-text-highlighted: white;
+	--color-text-mod: yellow;
+}
